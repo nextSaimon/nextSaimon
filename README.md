@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Saimon</h1>
 <h2 align="center">A Frontend Developer</h2>
-<h3 align="center">"Be passionate about what you like. Give attention to your small works. You will find your path to shine." - Saimon</h3>
+
 
 - 🌱 I’m currently learning **Web Development** and improving my skills in **Frontend Development**.
   
