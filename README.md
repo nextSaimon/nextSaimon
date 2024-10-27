@@ -1,3 +1,4 @@
+
 # Hello, I'm Saimon 👋
 
 ### 🌐 Frontend Developer
@@ -48,3 +49,11 @@ I started coding when I was 13, and I'm passionate about continually learning an
 ---
 
 Feel free to reach out or explore my work at **[saimon.wuaze.com](https://saimon.wuaze.com/)**!
+
+---
+
+### Include Font Awesome
+To use Font Awesome icons, add the following CDN link in your HTML:
+```html
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+```
