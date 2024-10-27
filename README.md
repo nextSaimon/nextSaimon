@@ -1,59 +1,49 @@
+<h1 align="center">Hello, I'm Saimon</h1>
+<h2 align="center">A Frontend Developer</h2>
+<h3 align="center">"Be passionate about what you like. Give attention to your small works. You will find your path to shine." - Saimon</h3>
 
-# Hello, I'm Saimon 👋
+- 🌱 I’m currently learning **Web Development** and improving my skills in **Frontend Development**.
+  
+- 👨‍💻 All of my projects are available at [https://saimon.wuaze.com](https://saimon.wuaze.com)
 
-### 🌐 Frontend Developer
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Bootstrap, and other skills**.
 
----
+- 📫 How to reach me: **saimonss5432@gmail.com**
 
-### Get To Know More
-I'm an 18-year-old frontend developer from **Dhaka, Bangladesh**. With **2+ years of experience** in frontend development, I bring creativity, a solid understanding of web fundamentals, and a keen eye for detail to every project.
+- ⚡ Fun fact: **I started coding at 13!**
 
----
+<h3 align="left">It's me......</h3>
+<p align="left">Saimon 🙋‍♂️<br>
+💻 A junior frontend developer. 🌐<br>
+🧭 I live in Dhaka, Bangladesh.<br>
+⌛ I am 18 years old.<br>
+🤓 I am learning 🌐 Web Development, and I can also edit 📷 photos, 📽️ videos, Word, Excel, etc.</p>
 
-### 📚 Education
-- **SSC**: Completed in 2023
-- **HSC**: Expected in 2025
+<h3 align="left">My Experience:</h3>
+<ul>
+  <li><strong>Frontend Development</strong></li>
+  <ul>
+    <li>HTML - Experienced</li>
+    <li>CSS - Experienced</li>
+    <li>JavaScript - Basic</li>
+    <li>React - Intermediate</li>
+    <li>Bootstrap - Intermediate</li>
+    <li>Git - Intermediate</li>
+  </ul>
+</ul>
 
----
+<h3 align="left">Other Skills:</h3>
+<ul>
+  <li>Photoshop - Intermediate</li>
+  <li>Illustrator - Intermediate</li>
+  <li>Excel - Experienced</li>
+  <li>Word - Experienced</li>
+  <li>PowerPoint - Intermediate</li>
+  <li>Python - Intermediate</li>
+</ul>
 
-### 🧑‍💻 My Skills
-
-#### Frontend Development
-- **<i class="fab fa-html5"></i> HTML** - Experienced
-- **<i class="fab fa-css3-alt"></i> CSS** - Experienced
-- **<i class="fab fa-js"></i> JavaScript** - Basic
-- **<i class="fab fa-react"></i> React** - Intermediate
-- **<i class="fab fa-bootstrap"></i> Bootstrap** - Intermediate
-- **<i class="fab fa-git"></i> Git** - Intermediate
-
-#### Other Skills
-- **<i class="fab fa-adobe"></i> Photoshop** - Intermediate
-- **<i class="fab fa-adobe"></i> Illustrator** - Intermediate
-- **<i class="fas fa-table"></i> Excel** - Experienced
-- **<i class="fas fa-file-word"></i> Word** - Experienced
-- **<i class="fas fa-file-powerpoint"></i> PowerPoint** - Intermediate
-- **<i class="fab fa-python"></i> Python** - Intermediate
-
----
-
-### ⚡ Fun Fact
-I started coding when I was 13, and I'm passionate about continually learning and refining my skills in web development.
-
----
-
-### 📬 Get in Touch
-- **Email**: [saimonss5432@gmail.com](mailto:saimonss5432@gmail.com)
-- **[Facebook](#)** - Stay connected!
-- **[Instagram](#)** - Follow my journey!
-
----
-
-Feel free to reach out or explore my work at **[saimon.wuaze.com](https://saimon.wuaze.com/)**!
-
----
-
-### Include Font Awesome
-To use Font Awesome icons, add the following CDN link in your HTML:
-```html
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.facebook.com/yourprofile" target="blank">Facebook</a> |
+  <a href="https://www.instagram.com/yourprofile" target="blank">Instagram</a>
+</p>
