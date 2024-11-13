@@ -45,5 +45,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/next.saimon/" target="blank">Facebook</a> |
-  <a href="https://www.instagram.com/next.saimon/" target="blank">Instagram</a>
+  <a href="https://www.instagram.com/next.saimon/" target="blank">Instagram</a> |
+  <a href="mailto:saimonss5432@gmail.com">Send Email</a>
+
 </p>
