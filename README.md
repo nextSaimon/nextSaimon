@@ -2,50 +2,20 @@
 <h2 align="center">A Frontend Developer</h2>
 
 
-- 🌱 I’m currently learning **Web Development** and improving my skills in **Frontend Development**.
-  
-- 👨‍💻 All of my projects are available at [https://saimon.wuaze.com](https://saimon.wuaze.com)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Bootstrap, and other skills**.
+# 💫 About Me:
+🌱 I’m currently learning **Web Development** and improving my skills in **Frontend Development**.<br><br>👨‍💻 All of my projects are available at **https://saimon.wuaze.com**<br><br>💬 Ask me about HTML, CSS, JavaScript, React, Bootstrap, and other skills.<br><br>📫 How to reach me: **saimonss5432@gmail.com**<br><br>⚡ Fun fact: I started coding at **13!**
 
-- 📫 How to reach me: **saimonss5432@gmail.com**
 
-- ⚡ Fun fact: **I started coding at 13!**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/next.saimon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/next.saimon) 
 
-<h3 align="left">It's me......</h3>
-<p align="left">Saimon 🙋‍♂️<br>
-💻 A junior frontend developer. 🌐<br>
-🧭 I live in Dhaka, Bangladesh.<br>
-⌛ I am 18 years old.<br>
-🤓 I am learning 🌐 Web Development, and I can also edit 📷 photos, 📽️ videos, Word, Excel, etc.</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nextSaimon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nextSaimon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nextSaimon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">My Experience:</h3>
-<ul>
-  <li><strong>Frontend Development</strong></li>
-  <ul>
-    <li>HTML - Experienced</li>
-    <li>CSS - Experienced</li>
-    <li>JavaScript - Basic</li>
-    <li>React - Intermediate</li>
-    <li>Bootstrap - Intermediate</li>
-    <li>Git - Intermediate</li>
-  </ul>
-</ul>
-
-<h3 align="left">Other Skills:</h3>
-<ul>
-  <li>Photoshop - Intermediate</li>
-  <li>Illustrator - Intermediate</li>
-  <li>Excel - Experienced</li>
-  <li>Word - Experienced</li>
-  <li>PowerPoint - Intermediate</li>
-  <li>Python - Intermediate</li>
-</ul>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/next.saimon/" target="blank">Facebook</a> |
-  <a href="https://www.instagram.com/next.saimon/" target="blank">Instagram</a> |
-  <a href="mailto:saimonss5432@gmail.com">Send Email</a>
-
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=nextSaimon&icon=0&color=0)](https://visitcount.itsvg.in)
