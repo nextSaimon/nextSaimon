@@ -2,9 +2,8 @@
 <h2 align="center">A Frontend Developer</h2>
 
 
-
 # 💫 About Me:
-🌱 I’m currently learning **Web Development** and improving my skills in **Frontend Development**.<br><br>👨‍💻 All of my projects are available at **https://saimon.wuaze.com**<br><br>💬 Ask me about HTML, CSS, JavaScript, React, Bootstrap, and other skills.<br><br>📫 How to reach me: **saimonss5432@gmail.com**<br><br>⚡ Fun fact: I started coding at **13!**
+🌱 I’m currently learning **Web Development** and improving my skills in **Frontend Development**.<br><br>👨‍💻 All of my projects are available at **[https://nextsaimon.netlify.com](https://nextsaimon.netlify.app/)**<br><br>💬 Ask me about HTML, CSS, JavaScript, React, Bootstrap, and other skills.<br><br>📫 How to reach me: **saimonss5432@gmail.com**<br><br>⚡ Fun fact: I started coding at **13!**
 
 
 ## 🌐 Socials:
